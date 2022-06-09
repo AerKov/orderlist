@@ -1,0 +1,25 @@
+.main {
+	margin-top: 50px;
+}
+#orders_table {
+	width: 100% !important;
+
+}
+#orders_table td {
+	padding: 5px !important;
+}
+.panel-body {
+	padding: 0 !important;
+}
+#categories {
+	width: 100%;
+}
+#categories .btn {
+	border: 1px solid #d6e9c6 !important;
+	border-radius: 0 !important;
+	background-color: #fff;
+}
+#add_category {
+	width: 100%;
+	border-radius: 0;
+}
